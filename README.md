@@ -1,2 +1,2 @@
 # SLGS
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link]https://github.com/chriswils95/SLGS/blob/master/views/home.ejs
