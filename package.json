@@ -1,0 +1,12 @@
+{
+  "name": "SLGS",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "ejs": "^3.0.1"
+  }
+}
